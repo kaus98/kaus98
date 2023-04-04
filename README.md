@@ -12,6 +12,10 @@ I also enjoy developing with  back-end technologies such as **`Python`**/**`Flas
 
 ### Dell India ###
 ### Data Engineering (SDE-2) ####
+* Implement custom pipelines with argo workflow for Kubernetes artitecture and in Apache airflow for non-kubernetes artitectures.
+* Implement custom inputs plugins(Redfish, SNMP Trap) and outputs plugins(Message bus, HTTP) in Telegraf to handle large number of requests(10 Million+/day) in real time.
+* Implement TCP/UDP kubernetes pipeline for telegraf.
+* Benchmarking the Telegraf Instance Requirement per Edge/Mgmt Node by Performing NeoLoad Tests and Recommended for Scalability.
 * Automated the Streaming Services using Docker, Kubernetes and Azure with help of Spark/Scala.
 * Working as SWE-2 to perform daily Backend Operations and Dataops Tasks.
 * Involved in Development, Testing and Maintenance of Spark Jobs in Java/Scala.
@@ -20,14 +24,14 @@ I also enjoy developing with  back-end technologies such as **`Python`**/**`Flas
 
 
 ### Rakuten India ###
-### Data Engineering Intern ####
+#### Data Engineering Intern ####
 * Build Wrangler tool to search Databases and Tables using Non-Contextual searching and Contextual Searching over NLP(Siemese Network) using Pytorch, Flask, Apache Elasticsearch, Sentence Transformers.
 * Building custom Java/Python Components including Hyperloglog and Bloom Filters for projects.
 * Implemented Multi-Threaded / Multi-Process components to transfer between SFTP to MinIO/HDFS in Java/Scala/Python with Airflow Framework.
 * Performing DataOps(Transfering, Filtering, Analysis) to maintain Day2Day tasks over Large Datasets from SFTP, MioIO, HDFS, MySQL and Streaming Data.
 
 ### Lambdatest ###
-### Data Science Engineering Intern ####
+#### Data Science Engineering Intern ####
 * Using Forecasting and Machine Learning to Predict localised Server requirements of Machine to save Server cost.
 * Automating the large scale Database in MySQL to classify and create insight pipeline to detect Logs Anomaly from S3, AWS Athena and building correct slack responses.
 * Building ETL pipelines for Sumologic, Grafana and Apache Superset Dashboards for Analysing Millions of Rows  Datasets from MySQL.
@@ -36,7 +40,7 @@ I also enjoy developing with  back-end technologies such as **`Python`**/**`Flas
 * Create custom Analytical Dashboard to Analyse Company Periodic comparisons of Customers using Pandas, MySQL, Matplotlib, Plotly and Flask.
 
 ### Eminenture ###
-### Computer Vision Intern ####
+#### Computer Vision Intern #####
 * Create Custom OCR models to filter and extract data from PDFs to reduce human testing and conversation time.
 * Scrap large amounts of data from multiple sites including News site, Train Ticket Booking, Instagram Scraping.
 * Implementing Transformers via Siamese Architecture to find contextual relation between sentence embedding in real time using Multiprocess Nearest Neighbours.
