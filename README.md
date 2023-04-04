@@ -11,7 +11,7 @@ I also enjoy developing with  back-end technologies such as **`Python`**/**`Flas
 ## EXPERIENCE/INTERNSHIPS ##
 
 ### Dell India ###
-### Data Engineering (SDE-2) ####
+#### Data Engineering (SDE-2) ####
 * Implement custom pipelines with argo workflow for Kubernetes artitecture and in Apache airflow for non-kubernetes artitectures.
 * Implement custom inputs plugins(Redfish, SNMP Trap) and outputs plugins(Message bus, HTTP) in Telegraf to handle large number of requests(10 Million+/day) in real time.
 * Implement TCP/UDP kubernetes pipeline for telegraf.
