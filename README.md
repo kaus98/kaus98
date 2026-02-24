@@ -68,6 +68,11 @@ with various menus and multiple pages, including the Company’s main website.
 
 
 ## PROJECTS ##
+### AI-UI ###
+#### UI Build with AI ####
+[GitHub](https://github.com/kaus98/AI-UI)
+This project demonstrates how to interact with OpenAI-compatible APIs using native Node.js fetch, without the official SDK. This is useful for connecting to custom endpoints (like local LLMs), OpenAI, Groq, Nvidia etc. 
+
 ### COVID-19 INDIA ###
 #### VISUALIZATIONS, PREDICTIONS & FORECASTING ####
 [GitHub](HTTPS://GITHUB.COM/TERMINATE9298/CORONA-VISUALIZATION-AND-PREDICTION)  
